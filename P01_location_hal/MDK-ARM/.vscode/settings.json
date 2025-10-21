@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "com_debug.h": "c",
+        "usart.h": "c",
+        "stdio.h": "c",
+        "com_tool.h": "c",
+        "main.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "int_at6558r.h": "c",
+        "int_ds3553.h": "c",
+        "driver_llcc68_interface.h": "c",
+        "int_lora.h": "c",
+        "driver_llcc68_lora.h": "c",
+        "int_qs100.h": "c",
+        "app_low_power.h": "c",
+        "rtc.h": "c",
+        "app_location.h": "c"
+    }
+}
